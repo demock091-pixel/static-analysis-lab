@@ -47,7 +47,7 @@ Berikut string signifikan yang ditemukan dari hasil `strings`:
 |---|---|
 | `MSVBVM60.DLL` | `__vbaChkstk`, `__vbaExceptHandler`, `__vbaFPException`, `__vbaFreeObj`, `__vbaFreeStr`, `__vbaFreeVar`, `__vbaFreeVarList`, `__vbaHresultCheckObj`, `__vbaObjSet`, `__vbaStrCmp`, `__vbaVarMul`, `__vbaVarTstEq`, dan fungsi VB runtime lainnya |
 
-![Import Table dari Ghidra Symbol Tree](abu-crackme-import-table.png)
+![Import Table dari Ghidra Symbol Tree](screenshots/abu-crackme-import-table.png)
 
 ## 5. Kesimpulan
 
