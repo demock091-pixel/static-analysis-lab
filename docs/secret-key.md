@@ -59,7 +59,7 @@ signifikan setelah difilter:
 | `API-MS-WIN-CRT-ENVIRONMENT-L1-1-0.DLL` | `__p__environ` |
 | `API-MS-WIN-CRT-PRIVATE-L1-1-0.DLL` | `__setusermatherr`, fungsi internal CRT lainnya |
 
-![Import Table dari Ghidra Symbol Tree](screenshots/secret-key-import-table.png)
+![Import Table dari Ghidra Symbol Tree](screenshots/secret-key-import-table.jpeg)
 
 ## 5. Kesimpulan
 
