@@ -83,9 +83,3 @@ matematis kompleks apa pun. Ini bertolak belakang dengan `abu_crackme_v1`
 yang memakai kombinasi fungsi trigonometri sebelum validasi — menjadikan
 binary ini contoh baik untuk kategori crackme level pemula (entry-level),
 sesuai skor kualitas rendah (1.0/4.0) yang tercatat di crackmes.one.
-
-**Catatan:** ukuran output `strings` binary ini jauh lebih besar
-dibanding `abu_crackme_v1` meski logikanya lebih sederhana — ini karena
-binary hasil kompilasi GCC/MinGW membawa metadata debug (DWARF: `.debug_info`,
-`.debug_line`, dll) dan path source developer secara default, berbeda
-dengan binary VB6 yang cenderung lebih ringkas stringnya.
